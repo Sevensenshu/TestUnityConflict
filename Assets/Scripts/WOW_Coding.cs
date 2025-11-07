@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class WOW_Coding : MonoBehaviour
 {
+    private int jpp = 69;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
